@@ -37,7 +37,25 @@
 |7주차 (05.01)|[촌수계산(S2)](https://www.acmicpc.net/problem/2644)|[토마토(G5)](https://www.acmicpc.net/problem/7569)|[벽 부수고 이동하기(G3)](https://www.acmicpc.net/problem/2206)||
 |8주차 (05.06)|[바이러스(S3)](https://www.acmicpc.net/problem/2606)|[안전 영역(S1)](https://www.acmicpc.net/problem/2468)|[효율적인 해킹(S1)](https://www.acmicpc.net/problem/1325)|[적록색약(G5)](https://www.acmicpc.net/problem/1325)|
 |8주차 (05.08)|[유기농 배추(S2)](https://www.acmicpc.net/problem/1012)|[빙산(G4)](https://www.acmicpc.net/problem/2573)|[알파벳(G4)](https://www.acmicpc.net/problem/1987)|[텀 프로젝트(G3)](https://www.acmicpc.net/problem/9466)|
-  
+|9주차 (05.13)|[N번째 큰 수(S2)](https://www.acmicpc.net/problem/2057)|[카드 정렬하기(G4)](https://www.acmicpc.net/problem/1715)|[중앙값 구하기(G2)](https://www.acmicpc.net/problem/2696)||
+|9주차 (05.15)|[절댓값 힙(S1)](https://www.acmicpc.net/problem/11286)|[보석 도둑(G2)](https://www.acmicpc.net/problem/1202)|[문제집(G2)](https://www.acmicpc.net/problem/1766)||
+|10주차 (05.22)|[덩치(S5)](https://www.acmicpc.net/problem/7568)|[용액(G5)](https://www.acmicpc.net/problem/2467)|[인구 이동(G4)](https://www.acmicpc.net/problem/16234)||
+|11주차 (05.27)|[시험 감독(B2)](https://www.acmicpc.net/problem/13458)|[예산(S2)](https://www.acmicpc.net/problem/2512)|[치킨 배달(G5)](https://www.acmicpc.net/problem/15686)||
+|12주차 (06.03)|[뱀(G4)](https://www.acmicpc.net/problem/3190)|[미세먼지 안녕(G4)](https://www.acmicpc.net/problem/17144)|||
+|12주차 (06.05)|[날짜 계산(S5)](https://www.acmicpc.net/problem/1476)|[N과 M(1)(S3)](https://www.acmicpc.net/problem/15649)|[오목(S1)](https://www.acmicpc.net/problem/2615)||
+|13주차 (06.17)|[특정 거리의 도시 찾기(S2)](https://www.acmicpc.net/problem/18352)|[최단경로(G4)](https://www.acmicpc.net/problem/1753)|[최소비용 구하기(G5)](https://www.acmicpc.net/problem/1916)||
+|13주차 (06.19)|[알고스팟(G4)](https://www.acmicpc.net/problem/1261)|[파티(G3)](https://www.acmicpc.net/problem/1238)|[최소비용 구하기 2(G3)](https://www.acmicpc.net/problem/11779)||
+|14주차 (06.30)|[그룹 단어 체커(S5)](https://www.acmicpc.net/problem/1316)|[설탕 배달(S4)](https://www.acmicpc.net/problem/2839)|[연구소(G4)](https://www.acmicpc.net/problem/14502)|[특정한 최단 경로(G4)](https://www.acmicpc.net/problem/1504)|
+|15주차 (07.07)|[DNA 비밀번호(S2)](https://www.acmicpc.net/problem/12891)|[부분수열의 합(S1)](https://www.acmicpc.net/problem/14225)|[팰린드롬?(G4)](https://www.acmicpc.net/problem/10942)|[미확인 도착지(G2)](https://www.acmicpc.net/problem/9370)|
+|16주차 (07.14)|[주몽(S4)](https://www.acmicpc.net/problem/1940)|[말이 되고픈 원숭이(G3)](https://www.acmicpc.net/problem/1600)|[달이 차오른다,가자.(G1)](https://www.acmicpc.net/problem/1194)||
+|17주차 (07.24)|[경로 찾기(S1)](https://www.acmicpc.net/problem/11403)|[플로이드(G4)](https://www.acmicpc.net/problem/11404)|[운동(G4)](https://www.acmicpc.net/problem/1956)|[역사(G3)](https://www.acmicpc.net/problem/1613)|
+|18주차 (07.31)|[나는야 포켓몬 마스터 이다솜(S4)](https://www.acmicpc.net/problem/1620)|[랜선 자르기(S2)](https://www.acmicpc.net/problem/1654)|[세 용액(G3)](https://www.acmicpc.net/problem/2473)|[소수의 곱(G1)](https://www.acmicpc.net/problem/2014)|
+|19주차 (08.14)|[감소하는 수(G5)](https://www.acmicpc.net/problem/1038)|[자두나무(G5)](https://www.acmicpc.net/problem/2240)|[DSLR(G4)](https://www.acmicpc.net/problem/9019)|[타임머신(G4)](https://www.acmicpc.net/problem/11657)|
+|20주차 (09.10)|[빙고(S4)](https://www.acmicpc.net/problem/2578)|[체스판 다시 칠하기(S4)](https://www.acmicpc.net/problem/1018)|[포도주 시식(S1)](https://www.acmicpc.net/problem/2156)|[불(G4)](https://www.acmicpc.net/problem/5427)|
+|21주차 (09.24)|[오르막 수(S1)](https://www.acmicpc.net/problem/11057)|[기타리스트(S1)](https://www.acmicpc.net/problem/1495)|[암호코드(G5)](https://www.acmicpc.net/problem/2011)||
+|22주차 (10.08)|[파일 정리(S3)](https://www.acmicpc.net/problem/20291)|[단지번호붙이기(S1)](https://www.acmicpc.net/problem/2667)|[쿼드트리(S1)](https://www.acmicpc.net/problem/1992)|[LCS(G5)](https://www.acmicpc.net/problem/9251)|
+|23주차 (10.15)|[암기왕(S4)](https://www.acmicpc.net/problem/2776)|[카잉 달력(S1)](https://www.acmicpc.net/problem/6064)|[스티커(S1)](https://www.acmicpc.net/problem/9465)|[치즈(G3)](https://www.acmicpc.net/problem/2638)|
+
 ## 현재까지 학습한 알고리즘 🧐
 1. 정렬
 2. 문자열
