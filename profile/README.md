@@ -55,6 +55,7 @@
 |21주차 (09.24)|[오르막 수(S1)](https://www.acmicpc.net/problem/11057)|[기타리스트(S1)](https://www.acmicpc.net/problem/1495)|[암호코드(G5)](https://www.acmicpc.net/problem/2011)||
 |22주차 (10.08)|[파일 정리(S3)](https://www.acmicpc.net/problem/20291)|[단지번호붙이기(S1)](https://www.acmicpc.net/problem/2667)|[쿼드트리(S1)](https://www.acmicpc.net/problem/1992)|[LCS(G5)](https://www.acmicpc.net/problem/9251)|
 |23주차 (10.15)|[암기왕(S4)](https://www.acmicpc.net/problem/2776)|[카잉 달력(S1)](https://www.acmicpc.net/problem/6064)|[스티커(S1)](https://www.acmicpc.net/problem/9465)|[치즈(G3)](https://www.acmicpc.net/problem/2638)|
+|24주차 (10.29)|[가장 가까운 세 사람의 심리적 거리(S1)](https://www.acmicpc.net/problem/20529)|[색종이 만들기(S2)](https://www.acmicpc.net/problem/2630)|[트리의 부모 찾기(S2)](https://www.acmicpc.net/problem/11725)|[파티(G3)](https://www.acmicpc.net/problem/1238)|
 
 ## 현재까지 학습한 알고리즘 🧐
 1. 정렬
