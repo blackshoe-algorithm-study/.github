@@ -11,9 +11,9 @@
 |Java|JavaScript|Java|
 
 ## 스터디 방식 📚
-1. 매주 화요일 오전 10시 ~ 오후 1시, 충무로 근처에서 총 3시간 동안 진행한다. (1기 때는 주 2회 2시간씩 진행)
-2. 2시간 동안 3~4문제를 푼 후, Github 각자 레포지토리에 Push한다.
-3. 이후 1시간 동안 자신의 코드를 설명하고, 상호 피드백을 진행한다.
+1. 매주 월요일 18:00 ~ 20:00, 비대면으로 총 120분 동안 진행한다.
+2. 80분 동안 문제를 푼 후, Github 각자 레포지토리에 Push한다.
+3. 이후 40분 동안 각자의 코드를 설명하고, 상호 피드백을 진행한다.
 4. 문제는 백준에서 가져오며, 스터디장이 출제한다.
 5. 사유 없는 지각 시, 분당 500원의 지각비를 걷는다 🤑
 
@@ -56,6 +56,10 @@
 |22주차 (10.08)|[파일 정리(S3)](https://www.acmicpc.net/problem/20291)|[단지번호붙이기(S1)](https://www.acmicpc.net/problem/2667)|[쿼드트리(S1)](https://www.acmicpc.net/problem/1992)|[LCS(G5)](https://www.acmicpc.net/problem/9251)|
 |23주차 (10.15)|[암기왕(S4)](https://www.acmicpc.net/problem/2776)|[카잉 달력(S1)](https://www.acmicpc.net/problem/6064)|[스티커(S1)](https://www.acmicpc.net/problem/9465)|[치즈(G3)](https://www.acmicpc.net/problem/2638)|
 |24주차 (10.29)|[가장 가까운 세 사람의 심리적 거리(S1)](https://www.acmicpc.net/problem/20529)|[색종이 만들기(S2)](https://www.acmicpc.net/problem/2630)|[트리의 부모 찾기(S2)](https://www.acmicpc.net/problem/11725)|[파티(G3)](https://www.acmicpc.net/problem/1238)|
+|25주차 (11.04)|[금민수의 개수(S1)](https://www.acmicpc.net/problem/1527)|[딸기와 토마토(G4)](https://www.acmicpc.net/problem/25565)|[암호코드(G5)](https://www.acmicpc.net/problem/2011)|[순회강연(G3)](https://www.acmicpc.net/problem/2109)|
+|26주차 (11.19)|[주식(S2)](https://www.acmicpc.net/problem/11501)|[징검다리 건너기(S1)](https://www.acmicpc.net/problem/21317)|[물통(G4)](https://www.acmicpc.net/problem/2251)||
+|27주차 (11.26)|[단어 나누기(S5)](https://www.acmicpc.net/problem/1251)|[좌표 압축(S2)](https://www.acmicpc.net/problem/18870)|[점프(S1)](https://www.acmicpc.net/problem/1890)|[소수 경로(G4)](https://www.acmicpc.net/problem/1963)|
+|28주차 (12.09)|[문서 검색(S5)](https://www.acmicpc.net/problem/1543)|[맥주 마시면서 걸어가기(G5)](https://www.acmicpc.net/problem/9205)|[동전 1(G4)](https://www.acmicpc.net/problem/2293)||
 
 ## 현재까지 학습한 알고리즘 🧐
 1. 정렬
