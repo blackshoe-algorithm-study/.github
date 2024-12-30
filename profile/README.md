@@ -60,6 +60,8 @@
 |26주차 (11.19)|[주식(S2)](https://www.acmicpc.net/problem/11501)|[징검다리 건너기(S1)](https://www.acmicpc.net/problem/21317)|[물통(G4)](https://www.acmicpc.net/problem/2251)||
 |27주차 (11.26)|[단어 나누기(S5)](https://www.acmicpc.net/problem/1251)|[좌표 압축(S2)](https://www.acmicpc.net/problem/18870)|[점프(S1)](https://www.acmicpc.net/problem/1890)|[소수 경로(G4)](https://www.acmicpc.net/problem/1963)|
 |28주차 (12.09)|[문서 검색(S5)](https://www.acmicpc.net/problem/1543)|[맥주 마시면서 걸어가기(G5)](https://www.acmicpc.net/problem/9205)|[동전 1(G4)](https://www.acmicpc.net/problem/2293)||
+|29주차 (12.16)|[스위치 켜고 끄기(S4)](https://www.acmicpc.net/problem/1244)|[봄버맨(S1)](https://www.acmicpc.net/problem/16918)|[감시 피하기(G5)](https://www.acmicpc.net/problem/18428)||
+|30주차 (12.23)|[돌 게임(S5)](https://www.acmicpc.net/problem/9655)|[햄버거 분배(S3)](https://www.acmicpc.net/problem/19941)|[상어 초등학교(G5)](https://www.acmicpc.net/problem/21608)||
 
 ## 현재까지 학습한 알고리즘 🧐
 1. 정렬
